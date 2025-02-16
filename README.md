@@ -5,9 +5,7 @@
   <br>INGENIERÍA EN COMPUTACIÓN  
   <br>LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA  
 
-  <br><strong>PRACTICA Nº 01</strong>  
-=======
-  <br><strong>CONTROL DE VERSIONADO</strong>  
+  <br>PRACTICA Nº 01</>  
 </p>
 
 <p align="center">
