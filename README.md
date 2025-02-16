@@ -4,7 +4,10 @@
   <br>DIVISIÓN DE INGENIERÍA ELÉCTRICA  
   <br>INGENIERÍA EN COMPUTACIÓN  
   <br>LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA  
-  <br><strong>PRÁCTICA Nº 01</strong>  
+
+  <br><strong>PRACTICA Nº 01</strong>  
+=======
+  <br><strong>CONTROL DE VERSIONADO</strong>  
 </p>
 
 <p align="center">
